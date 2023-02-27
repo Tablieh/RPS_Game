@@ -157,30 +157,3 @@ toto.appendChild(btnPaper);
 all.appendChild(toto);
 all.appendChild(scoreDiv);
 /**-----------------------------------------------------------------------*/
-
-
-/* function ColorWithCLick() {
-  const clickRock = btn.addEventListener("click", function () {
-    btn.style.backgroundColor="rgb(4, 174, 4)";
-    setTimeout(() => {}, 900);
-  }, { once: true });
-  const scissor = btn1.addEventListener("click", function () {
-    btn1.style.backgroundColor="rgb(4, 174, 4)";
-    setTimeout(() => {}, 900);
-  }, { once: true })
-  const clickPaper = btn2.addEventListener("click", function () {
-    btn2.style.backgroundColor="rgb(4, 174, 4)";
-    setTimeout(() => {}, 900);
-  }, { once: true })
-  const PC = 0;
-  const player = 1;
-  if (clickRock == true) {
-    
-  }
-} 
-
-ColorWithCLick()
-toto.appendChild(btn);
-toto.appendChild(btn1);
-toto.appendChild(btn2);
-all.appendChild(toto);*/
