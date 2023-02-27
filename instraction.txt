@@ -1,0 +1,6 @@
+on fera un exercice pour faire un "papier feuille ciseaux" (rock paper scissors)
+-- Tu as 3 boutons : pierre, feuille ou ciseaux
+-- Tu cliques sur un des 3
+-- L'ordinateur choisit aléatoirement l'un des 3 également
+-- L'application affiche qui gagne le round et ajoute +1 au score (on affiche donc le score PLAYER VS PC)
+

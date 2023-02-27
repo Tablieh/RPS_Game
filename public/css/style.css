@@ -1,0 +1,112 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(/public/image/RPS3.png);
+    object-fit: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.logo{
+    background-image: url(/public/image/RPS4.png);
+    object-fit: cover;
+    background-repeat: no-repeat;
+    height: 26vh;
+    width: 1000px;
+    margin-left: 550px;
+    margin-top: 24px;
+    opacity: 0.7;
+}
+#content{
+    margin-left: 340px;
+    height: 30vh;
+    width: 900px;
+    background-color: rgb(182, 171, 192);
+    opacity: 0.9;
+    
+}
+.toto{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: center;
+    padding-top: 10px;
+    
+}
+.text{
+    padding: 10px;
+    font-size: 20px;
+    background-color: rgb(182, 171, 192);
+    opacity: 0.9;
+    width: 900px;
+    margin-left: 340px;
+    text-align: center;
+    font-family: fantasy;
+}
+.green{
+    width: 100px;
+    color: rgb(4, 166, 4);
+}
+.pink{
+    width: 100px;
+    color: pink;
+}
+.Yallow{
+    width: 100px;
+    color: rgb(241, 241, 4);
+}
+.text1{
+    margin-left: 30px;
+    display: flex;
+    flex-direction: flex-start;
+    align-items: center;
+    width: 250px;
+    font-size: 30px;
+    gap: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+     box-shadow: 5px 5px 20px; 
+    font-size: 23px;
+    margin-bottom: 40px;
+}
+.rule{
+    width: 400px;
+    box-shadow: 5px 5px 20px; 
+    margin-left: 250px;
+    margin-bottom: 30px;
+}
+.text2{
+    
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.reloadButton{
+    margin-top: 14px;
+    margin-left: 90px;
+    font-family: 'Open Sans';
+    width: 135px;
+    height: 150px;
+    padding: 15px;
+    color: rgb(29, 24, 24);
+    background-color: #677df6;
+    border: 1px solid transparent;
+    border-radius: 20px;
+    height: fit-content;
+    justify-content: center;
+    align-items: center;
+
+}
+.fa-regular{
+    font-size: 50px;
+    padding: 5px;
+    box-shadow: 5px 5px 20px;
+    color:blue;
+    cursor: pointer;
+    border-radius: 10px;
+}
+/* .fa-regular:active{
+    color: black;
+    background-color: rgb(174, 4, 157);
+}  */
