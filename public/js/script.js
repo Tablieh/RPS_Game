@@ -64,7 +64,7 @@ btnPaper.style.backgroundColor = "";
 
 // player's selection turn green
 playerSelection.style.backgroundColor = "rgb(4, 174, 4)";
-
+ 
 // the computer selection turn pink condition
 // variable computerSelectedButton that contain the the button selcetied par PC
 let computerSelectedButton;
